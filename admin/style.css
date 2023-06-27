@@ -1,0 +1,23 @@
+
+.gambar{
+    padding-top: 10px;
+    padding-right: 10px;
+}
+.mycontainer {
+    width:900px;
+    max-width:100%;
+    margin:0 auto;
+    background: rgb(202, 55, 55);
+    background:#f39c12;
+}
+
+.mycontainer a {
+
+    color: #000  ;
+}
+.padding1{
+    margin-bottom: -20px; 
+}
+body{
+    background-image: url('bg.png');
+}

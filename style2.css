@@ -1,0 +1,78 @@
+.topnav a:hover {
+    border-bottom: 3px solid red;
+}
+
+.gambar{
+    padding-top: 5px;
+    padding-right: 5px;
+}
+
+.margin{
+	margin: 25px;
+}
+
+.provinsicss {
+	background-color: #46597d;
+	padding: 10px;
+	margin: auto;
+	text-align: center;
+	margin-bottom: 5px;
+	border-bottom-left-radius: 25px;
+	border-top-left-radius: 25px;
+}
+
+.provinsicss h3 {
+	color: white;
+}
+
+.kasPositif {
+	background-color: #ba0606;
+	padding: 10px;
+	margin: auto;
+	text-align: center;
+	margin-bottom: 5px;
+}
+
+.kasPositif h3 {
+	color: white;
+}
+
+.kasSembuh {
+	background-color: #28ba00;
+	padding: 10px;
+	margin: auto;
+	text-align: center;
+	margin-bottom: 5px;
+}
+
+.kasSembuh h3 {
+	color: white;
+}
+
+.kasMeninggal {
+	background-color: #616161;
+	padding: 10px;
+	margin: auto;
+	text-align: center;
+	margin-bottom: 5px;
+	border-top-right-radius: 25px;
+	border-bottom-right-radius: 25px;
+}
+
+.kasMeninggal h3 {
+	color: white;
+}
+
+.beritaContainer {
+	width: 80%;
+	height: auto;
+	margin: auto;
+}
+
+.beritaContainer img {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 40%;
+	border-radius: 10px;
+}
